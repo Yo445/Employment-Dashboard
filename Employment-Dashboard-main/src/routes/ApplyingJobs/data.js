@@ -1,0 +1,32 @@
+export default[
+{
+  id:1,
+  description:"Graphic Designer",
+  position:"Facebook",
+  qualifications: ["Adobe", "Photoshop","Premiere"],
+  offer:"50%",
+  maxCandidateNumber:1000,
+  type: "Full time",
+  location: "Remote",
+},
+{
+  id:2,
+  description:"Frontend",
+  position:"Google",
+  qualifications: ["Javascript", "React.js","Nodejs"],
+  offer:"60%",
+  maxCandidateNumber:2000,
+  type: "Part time",
+  location: "Office",
+},
+{
+  id:3,
+  description:"Backend",
+  position:"Microsoft",
+  qualifications: ["storage", "React.js","Nodejs","php","MongoDB"],
+  offer:"70%",
+  maxCandidateNumber:3000,
+  type: "Full time",
+  location: "Remote",
+},
+];

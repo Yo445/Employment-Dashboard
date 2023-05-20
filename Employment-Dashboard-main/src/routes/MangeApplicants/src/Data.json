@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "mohamed",
+        "email" : "mohamed@gmail.com",
+        "phone" : "2566852",
+        "password":"Sdfsfds"
+    
+    },
+    {
+        "id" : 2,
+        "name" : "ahmed",
+        "email" : "ahmed@gmail.com",
+        "phone" : "8542152",
+        "password":"Sdfsfds"
+       
+    }
+    ,
+    {
+        "id" : 3,
+        "name" : "tarek",
+        "email" : "tarek@gmail.com",
+        "phone" : "3541525",
+        "password":"Sdfsfds"
+    
+    }
+]

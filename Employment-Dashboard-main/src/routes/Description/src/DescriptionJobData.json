@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "Description" : "SW",
+        "qual" : "sSAsfsd"
+
+    },
+    {
+        "id" : 2,
+        "Description" : "AWS",
+        "qual" : "mASf"
+
+    } ,
+    {
+        "id" : 3,
+        "Description" : "SQL",
+        "qual" : "mdDS"
+
+    }
+]

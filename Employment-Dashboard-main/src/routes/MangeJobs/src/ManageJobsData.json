@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "Position" : "SW",
+        "Description" : "sdfsffdsfsd",
+        "Offer" : "3000$",
+        "Max_candidate_number": "7"
+    
+    },
+    {
+        "id" : 2,
+        "Position" : "AWS",
+        "Description" : "mdsfsdfsf",
+        "Offer" : "3000$",
+        "Max_candidate_number": "7"
+       
+    } ,
+    {
+        "id" : 3,
+        "Position" : "SQL",
+        "Description" : "mdsfsdfsf",
+        "Offer" : "3000$",
+        "Max_candidate_number": "7"
+      
+    }
+]

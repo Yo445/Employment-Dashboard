@@ -1,0 +1,40 @@
+[
+    {
+        "id" : 1,
+        "name" : "mohamed",
+        "email" : "mohamed@gmail.com",
+        "phone" : "2566852"
+    
+    },
+    {
+        "id" : 2,
+        "name" : "ahmed",
+        "email" : "ahmed@gmail.com",
+        "phone" : "8542152"
+       
+    }
+    ,
+    {
+        "id" : 3,
+        "name" : "tarek",
+        "email" : "tarek@gmail.com",
+        "phone" : "3541525"
+    
+    }
+    ,
+    {
+        "id" : 4,
+        "name" : "ahmed",
+        "email" : "ahmed@gmail.com",
+        "phone" : "8542152"
+       
+    }
+    ,
+    {
+        "id" : 5,
+        "name" : "ahmed",
+        "email" : "ahmed@gmail.com",
+        "phone" : "8542152"
+       
+    }
+]

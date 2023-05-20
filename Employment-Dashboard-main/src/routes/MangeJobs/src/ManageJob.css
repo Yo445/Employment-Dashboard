@@ -1,0 +1,160 @@
+table th, table td {
+    border : 1px solid black;
+    text-align: center;
+    padding: 2px 40 px;
+    font-size: larger;
+    color:#212529;
+    height: 109px;
+    width: 400px;
+}
+table th {
+    color: rgb(255, 255, 255);
+    
+}
+table {
+    border-collapse: collapse;
+    padding: 200px;
+    
+    
+}
+.tableWrap {
+    height: fit-content;
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+.add{
+    justify-content: center;
+    display: flex;
+}
+
+.btn{
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    background: #c494e3;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(0, 0, 0,0.1);
+    margin-left: 20px; 
+    margin-top: 20px;
+    margin-right: 10px;     
+}
+
+    .btn2{
+        font-family: "Roboto", sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        background: #510683;
+        width: 100px;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 0 10px rgb(0, 0, 0,0.1);
+        margin-left: 20px; 
+        margin-top: 20px;
+        margin-right: 10px;    
+    }
+    .btn:hover,.btn:focus,.btn:active{
+        transform: scale(1.1);
+    }
+    .add button {
+        font-family: "Roboto", sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        background-color: #0dc789;
+        font-size: small;
+        width: 100px;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        color:#fff;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 0 10px rgb(0, 0, 0,0.1);
+    }
+    .btn1{
+        font-family: "Roboto", sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        background: #69035b;
+        width: 100px;
+        margin-left: 20px;
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+        box-shadow: 0 0 10px rgb(0, 0, 0,0.1);
+        margin-left: 20px; 
+        margin-top: 20px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+        .btn1.btn:hover,.btn1:focus,.btn1:active{
+    
+        box-shadow: 0 0 20px rgb(0, 0, 0,0.5);
+        transform: scale(1.1);
+    }
+
+input {
+    padding: 5px;
+    margin-right:5px ;
+    border-radius: 20px;
+}
+.edit {
+    padding: 4px;
+    margin: 7px;
+    background-color: rgb(234, 162, 18);
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    border-radius: 10px;
+    border: 0;
+
+
+}
+.delete {
+    padding: 4px;
+    margin: 2px;
+    background-color: rgb(254, 10, 10);
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:small;
+    border-radius: 10px;
+    border: 0;
+}
+
+.MJtitle{
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    background-color: #561081;
+    margin-top: auto;
+    /*width: 1519px;*/
+    height: 90px;
+    padding-top: 2%;
+    color: #e0c6f1;
+}
+body{
+    background-color: #f9efff;
+}
+
+.text1{
+    border-radius: 10px;
+    padding-left: 20px;
+    background-color: #fff;
+    width: 90px;
+    }

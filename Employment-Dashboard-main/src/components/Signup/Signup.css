@@ -1,0 +1,93 @@
+.signup{
+    height: 100%;
+    width: 85%;
+    overflow: hidden;
+    background-color:  #c293e1 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 110px;
+}
+
+.signup h3{
+    font-size: 2rem;
+    margin-bottom: 50px;
+    color:#ffffff;
+    padding: 15px 0;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+}
+.signup form{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signup form input:not([type="submit"]){
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #8e8e8e;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #ffffff;
+    outline: none !important;
+    font-family: 'Poppins', sans-serif;
+    background: none;
+}
+::placeholder{
+
+    color: #c1dbe3dd;
+    
+    }
+
+.signup label{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #8e8e8e;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 0.99rem;
+    font-weight: bold;
+    color: #9acad9dd;
+    outline: none !important;
+    font-family: 'Poppins', sans-serif;
+    background: none;
+
+}
+
+.signup form button{
+    width: 100%;
+    padding: 10px;
+    border: 2px ;
+    border-radius: 10px;
+    margin-top: 3px;
+    font-size: 0.99rem;
+    font-weight: bold;
+    color: white;
+    outline: none !important;
+    cursor: pointer;
+    transition: 0.3s linear;
+    font-family: 'Poppins', sans-serif;
+    background-color: #561081;
+}
+.signup form button:hover{
+    width: 350px;  
+    background-color: #280d46;
+}
+
+h1{
+    color: #561081;
+    font-size: 2.5rem;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 3px;
+}
